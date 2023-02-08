@@ -14,4 +14,4 @@ Analysis:
 4. Well, the most crucial aspect of accidents is to determine what led to them, what was the reason, or more generally, what was a contributing component. Driver inattention/distraction, which resulted in over 20,000 accidents, is the key contributing element in NYC 2020. "Driving too closely to the automobile in front" came in second place and was responsible for more than 5,000 accidents.
 
 
-For visualizations check out the twbx file
+For visualizations check out https://10az.online.tableau.com/#/site/aspdashboards/views/NYCTrafficAccidents/NYCTrafficAccidents2020?:iid=1
